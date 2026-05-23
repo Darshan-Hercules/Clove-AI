@@ -1,0 +1,73 @@
+{
+    "user_preferences": {
+        "coding_apps": [
+            "Visual Studio Code",
+            "Chrome",
+            "Spotify"
+        ],
+        "favorite_browser": "Chrome"
+    },
+    "routines": {
+        "coding mode": [
+            "open vs code",
+            "open spotify",
+            "open chrome"
+        ]
+    },
+    "recent_files": [],
+    "conversations": {
+        "34f8e871-6e53-40ca-af05-ea64d89388cb": {
+            "id": "34f8e871-6e53-40ca-af05-ea64d89388cb",
+            "title": "Hello",
+            "history": [
+                {
+                    "role": "user",
+                    "content": "hello"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hey! How can I help you today?"
+                }
+            ]
+        },
+        "8e59f416-1069-4a9c-bbf8-2bfc549c6d1b": {
+            "id": "8e59f416-1069-4a9c-bbf8-2bfc549c6d1b",
+            "title": "Can you tel me some thing inte...",
+            "history": [
+                {
+                    "role": "user",
+                    "content": "can you tel me some thing interesting"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Did you know that the very first \"computer bug\" was actually a real moth? \n\nBack"
+                },
+                {
+                    "role": "user",
+                    "content": "hello"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hey there! How's it going?"
+                },
+                {
+                    "role": "user",
+                    "content": "hello"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hey again! What can I do for you?"
+                },
+                {
+                    "role": "user",
+                    "content": "hello"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hey! We're on a roll with the hellos today. What's on your mind?"
+                }
+            ]
+        }
+    },
+    "current_session_id": "8e59f416-1069-4a9c-bbf8-2bfc549c6d1b"
+}
